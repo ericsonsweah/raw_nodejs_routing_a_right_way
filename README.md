@@ -10,7 +10,7 @@ This may be the basic for your starting point if you want to build API, or Serve
 
 This project uses Object Oriented Programming (OOP) and Functional Programming (FP) heavily. By Object Oriented Programming I mean Object Oriented Programming the Javascript way and specifically the ES6 way. And by Functional Programming I mean functional programming the Javascript way; specifically the ES6 way. It also uses NodeJs Native Stream API heavily especially the ```Transfrom``` API.
 
-All most all the backend codes and all the classes of the backend code inherit a single NodeJs API class:
+Almost all the backend codes and all the classes of the backend code inherit a single NodeJs API class:
 
 ```javascript
  Transform
