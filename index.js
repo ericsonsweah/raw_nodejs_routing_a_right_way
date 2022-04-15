@@ -11,6 +11,7 @@
 */
 
 const App = require('./src/App')
+
 const app = App()
 
 app.get('/', (req, res) => {
@@ -20,7 +21,11 @@ app.get('users/:id', (req, res) => {
     res.status(200).send(req.params)
 })
 
+const meHandler = (req, res) => res.status(200).send({me: 'This is all me'})
+
+app.get('/me', meHandler)
 
 
-//
+
+// Start the application
 app.listen()
