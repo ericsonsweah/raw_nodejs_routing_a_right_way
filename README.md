@@ -1,6 +1,6 @@
 ## Pure NodeJs Routing, A Right Way: Server, API, Routing
 
-### [RAW NodeJs: Routing A Right Way](https://github.com/ericsonsweah/raw_nodejs_routing_a_right_way "Server, API, Routing")
+<!-- ### [RAW NodeJs: Routing A Right Way](https://github.com/ericsonsweah/raw_nodejs_routing_a_right_way "Server, API, Routing") -->
 
 You've read it right! This is raw nodejs or pure nodejs. This is zero dependencies. Here there is no npm, no yarn, no dependencies, no frameworks, no libraries, no CDNs, no copying and pasting someone else's codes, and certainly no package.json: just plain old Javascript and raw (or pure) NodeJs.
 
