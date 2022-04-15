@@ -4,7 +4,7 @@
 | Main App (Server)
 |--------------------------------------------------------------------------
 |
-| Here is where you can register addition web routes for your application. These
+| Here is where you can register additional web routes for your application. These
 | routes mounted directly to the App (see App Class in /src/App.js).
 | Now create something great!
 |
